@@ -1,0 +1,13 @@
+﻿#formDiv {	
+	border: 2px solid #ff6a00;
+	border-radius: 5px;
+	background-color: #ffe0a1;
+	padding: 16px;
+}
+.messageBox {
+	margin-top: 16px;
+	padding: 16px;
+}
+.container {
+	background-color: #f8f5dd;
+}
